@@ -1,6 +1,6 @@
-## Engineer, Developer, Problem Solver
+## Hi, my name is Corvin Gröning
 
-I'm a passionate developer with strong experience in Python and VBA – especially when it comes to automating workflows, building calculation tools for engineers and developing smart, maintainable software. I love writing clean, efficient code and constantly explore new technologies to grow my skillset. Currently, I'm actively working on several private repositories.
+I'm a passionate developer with strong experience in Python and VBA – especially when it comes to automating workflows, building calculation tools for engineers and developing smart, maintainable software. I enjoy writing clean, efficient code and continuously explore new technologies to grow my skillset. Currently, I'm actively working on several private repositories. My mission is to create maintainable and elegant solutions for real-world problems.
 
 **Mainly work with:**
 
