@@ -1,4 +1,4 @@
-## 📟 Hello, world!
+## Engineer, Developer, Problem Solver
 
 I'm a passionate developer with strong experience in Python and VBA – especially when it comes to automating workflows, building calculation tools for engineers and developing smart, maintainable software. I love writing clean, efficient code and constantly explore new technologies to grow my skillset. Currently, I'm actively working on several private repositories.
 
