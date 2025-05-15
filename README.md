@@ -29,7 +29,7 @@ I'm a passionate developer with strong experience in Python and VBA – especial
 
   - **Personal Finance Tracker**
 
-    Desktop budgeting app built with Java and SQLite – aimed at tracking income, expenses and savings goals.
+    Desktop budgeting app built with Excel and VBA – aimed at tracking income, expenses and savings goals.
 
   - **Apple Music Controller**
 
