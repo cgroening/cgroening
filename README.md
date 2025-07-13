@@ -10,8 +10,7 @@ Writing clean, efficient code is something I truly enjoy. I'm continuously divin
 | -- | -- |
 | Languages | [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](#)   [![VBA](https://custom-icon-badges.demolab.com/badge/VBA-217346.svg?logo=vsc&logoColor=white)](#)    [![Rust](https://img.shields.io/badge/-Rust-B7410E?logo=rust&logoColor=white)](#) |
 | Data | [![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?logo=sqlite&logoColor=white)](#)   [![JSON](https://img.shields.io/badge/JSON-453306?logo=json&logoColor=fff)](#) |
-| Tools | [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)   [![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=fff)](#) |
-| Productivity | [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)   [![Notion](https://img.shields.io/badge/Notion-333333?logo=notion&logoColor=fff)](#) |
+| Tools | [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)   [![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=fff)](#)   [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#) |
 
 <details>
   <summary><b>Projects</b></summary>
