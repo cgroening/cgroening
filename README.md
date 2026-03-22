@@ -1,6 +1,6 @@
 ## Hi, I'm Corvin Gröning
 
-Python Pro and Rust Rookie building CLI tools and TUI applications. Neovim wizard who lives in the terminal.
+Python Pro and Rust Rookie building CLI tools and TUI applications.
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](#)    [![Rust](https://img.shields.io/badge/-Rust-B7410E?logo=rust&logoColor=white)](#)    [![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)](#)
   
