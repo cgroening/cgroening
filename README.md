@@ -2,7 +2,7 @@
 
 Software Developer & Structural Engineer from Germany
 
-I'm a Python Pro and Rust Rookie building calculation tools and productivity apps.
+Python Pro and Rust Rookie building calculation tools and productivity apps
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](#)    [![Rust](https://img.shields.io/badge/-Rust-B7410E?logo=rust&logoColor=white)](#)      [![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)](#)   [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](#)
 
