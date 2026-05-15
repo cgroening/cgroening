@@ -1,8 +1,12 @@
 ## Hi, I'm Corvin Gröning
 
-Software Developer & Structural Engineer from Germany.
+Software Developer & Structural Engineer from Germany – Bridging the gap between structural engineering and software development.
 
-Python Pro and Rust Rookie building calculation tools and productivity apps.
+Python Pro and Rust Rookie building calculation software, productivity apps and developer tools – across CLI, TUI and GUI.
+
+Passionate about software architecture and clean code – I believe that well-structured and maintainable code is just as important as working code.
+
+Currently deepening my knowledge of C and picking up C++, to better understand Rust and programming languages in general from the ground up.
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](#)    [![Rust](https://img.shields.io/badge/-Rust-B7410E?logo=rust&logoColor=white)](#)      [![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)](#)   <!--[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](#)-->
 
