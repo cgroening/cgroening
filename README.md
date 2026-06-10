@@ -1,6 +1,6 @@
 ## Hi, I'm Corvin Gröning
 
-Software Developer & Structural Engineer from Germany – Bridging the gap between structural engineering and software development.
+Software Developer & Structural Engineer – bridging the gap between structural engineering and software development.
 
 Building calculation software, productivity apps and developer tools – across CLI, TUI and GUI.
 
